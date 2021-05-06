@@ -1,4 +1,4 @@
-name: Master CICD
+name: docker_registry
 
 on:
   push:

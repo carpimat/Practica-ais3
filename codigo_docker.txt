@@ -1,4 +1,4 @@
-name: docker_registry
+name: docker
 
 on:
   push:

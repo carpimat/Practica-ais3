@@ -1,4 +1,4 @@
-name: dockerq
+name: docker
 
 on:
   push:
